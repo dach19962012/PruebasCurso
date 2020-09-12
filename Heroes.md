@@ -5,4 +5,3 @@
 *Aquaman
 *Mujer
 *Robin
-*Jesus
